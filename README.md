@@ -19,3 +19,12 @@ npx create-expo-app --template blank ExpenseTrackerApp
 # Run 
 
 npm start
+
+# Using React Navigation
+
+Documentation: https://reactnavigation.org/
+    
+    -Install: npm install @react-navigation/native
+    -Install Native Stack: npm install @react-navigation/native-stack
+    -Install Bottom Tabs: npm install @react-navigation/bottom-tabs
+
