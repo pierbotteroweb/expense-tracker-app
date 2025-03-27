@@ -14,7 +14,7 @@ Android studio with virtual device created
 
 # Create
 
-npx create-expo-app ExpenseTrackerApp
+npx create-expo-app --template blank ExpenseTrackerApp
 
 # Run 
 
